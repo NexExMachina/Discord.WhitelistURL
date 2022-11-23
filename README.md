@@ -35,5 +35,3 @@ Run the Bot using
 ```
 node index.js
 ```
-    
-I wholeheartedly suggest you install this with NSSM so you don't need to run it when using it.
