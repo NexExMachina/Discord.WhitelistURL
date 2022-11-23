@@ -1,0 +1,9 @@
+{
+  "token": "YOURTOKEN",
+  "monitorURLs": true,
+  "validURLs": ["youtu.be","youtube.com", "streamable.com", "medal.tv", "giphy.com", "tenor.com", "paranoid.gg", "facepunch.com", "rustmaps.com"],
+  "ignoredChannels": ["1", "2", "3"],
+  "ignoredCategories" : ["1", "2", "3"],
+  "ignoredUsers": ["1", "2", "3"],
+  "loggingChannel": "1044969868031705119"
+}

@@ -1,0 +1,4 @@
+/config/config.json
+
+# Project exclude paths
+/node_modules/
