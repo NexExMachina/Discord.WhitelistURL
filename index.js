@@ -4,7 +4,6 @@
 //Import Discord
 const { Client, GatewayIntentBits, CommandInteraction} = require("discord.js");
 global.config = require('./config/config.json');//Import Config
-global.functions = require('./functions/functions.js');//Import Functions
     //Create Client and announce intents
     const client = new Client({
         fetchAllMembers: true,
